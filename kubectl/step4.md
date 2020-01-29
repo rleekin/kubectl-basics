@@ -1,6 +1,8 @@
-This command shows details about your cluster configuration
+We will now take a deeper look at the Kubernetes resources.
 
 `kubectl get namespace`{{execute}}
 
-Shortcut Tip:
-`kubectl get ns` works as well 
+You will see the various namespaces that are critical to Kubernetes operations.
+
+Pro Tip: 
+`kubectl get ns` is a shorten version of the command above.

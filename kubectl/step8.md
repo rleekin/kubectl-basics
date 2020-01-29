@@ -1,8 +1,8 @@
-This command shows details about your cluster configuration
+Check to see if the deployment is in the "Ready" stage.
 
 `kubectl get deployment`{{execute}}
 
-This will not show anything because it shows the default
+Notice the deployment was automatical deployed to the Default Namespace. 
 
-Shortcut Tip:
-`kubectl get deploy` works as well 
+Pro Tip: 
+`kubectl get deploy` is a shorten version of the command above.

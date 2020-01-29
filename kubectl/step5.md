@@ -1,8 +1,8 @@
-This command shows details about your cluster configuration
+Let's look at the pods in the cluster.
 
 `kubectl get pods`{{execute}}
 
-This will not show anything because it shows the default
+At this moment in the cluster, this command will not show any pods running because it shows the pods in the Default Namespace. We currently, do not have any pods in that Namespace.
 
-Shortcut Tip:
-`kubectl get po` works as well 
+Pro Tip: 
+`kubectl get po` is a shorten version of the command above.

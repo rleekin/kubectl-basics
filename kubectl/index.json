@@ -1,16 +1,16 @@
 {
-  "title": "Kubectl-Basics",
-  "description": "This course takes you through the basic commands of Kubectl",
+  "title": "Introduction to Kubectl",
+  "description": "In this scenario, will introduce you to the basic Kubectl commands. You'll learn how to navigate through your quickly and  efficiently cluster.",
   "difficulty": "Beginner",
-  "time": "15",
+  "time": "15 - 20 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Step 1 - Cluster Info",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Step 2 - Kubectl Setup",
         "text": "step2.md"
       },
       {
@@ -56,14 +56,6 @@
       {
         "title": "Step 13",
         "text": "step13.md"
-      },
-      {
-        "title": "Step 14",
-        "text": "step14.md"
-      },
-      {
-        "title": "Step 15",
-        "text": "step15.md"
       }
     ],
     "intro": {

@@ -1,3 +1,5 @@
-This command shows details about your cluster configuration
+Let’s check the status of nodes. Wait for the Nodes to be in the Ready state.
 
-`kubectl top node`{{execute}}
+`kubectl get nodes`{{execute}}
+
+Pro Tip: `kubectl get no` is a shorten version of the command above.

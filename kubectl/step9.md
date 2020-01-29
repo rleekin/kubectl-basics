@@ -1,5 +1,5 @@
-This command shows details about your cluster configuration
+If you want to get more verbose output about the deployment. Running this command:
 
-`kubectl get describe deployment`{{execute}}
+`kubectl describe deployment`{{execute}}
 
-This will not show anything because it shows the default
+This shows key information about the deployment : ???
