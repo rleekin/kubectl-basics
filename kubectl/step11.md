@@ -4,6 +4,11 @@ Now let's take a look at the different output formats you can get from Kubectl. 
 
 With this Json format, you can perform advanced queries against the information such as the metadata like labels.
 
+Similarly, we can use the YAML format.
+
+`kubectl get pod -o yaml `{{execute}}
+
+
 Or if you want to get additional information on the pods you can use this command:
 
 `kubectl get pod -o wide `{{execute}}

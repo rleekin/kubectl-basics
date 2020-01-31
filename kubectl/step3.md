@@ -1,4 +1,4 @@
-Let’s check the status of nodes. Wait for the Nodes to be in the Ready state.
+Let’s check the status of the nodes. Wait for the Nodes to be in the Ready state.
 
 `kubectl get nodes`{{execute}}
 
