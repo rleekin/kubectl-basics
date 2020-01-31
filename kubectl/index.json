@@ -11,6 +11,7 @@
       },
       {
         "title": "Step 2 - Kubectl Setup",
+        "code": "clear.sh",
         "text": "step2.md"
       },
       {
