@@ -6,4 +6,4 @@ Setup up kubectl completion.
 This terminal setup is bash shell so we will use the following command:
 `source <(kubectl completion bash)`{{execute}}
 
-Now we can do things like `kubectl get pods` and it will now be Namespace aware. We will play with this later on in the scenario.
+Now we can do things like `kubectl get pods` and it will be Namespace aware. We will play with this later on in the scenario.

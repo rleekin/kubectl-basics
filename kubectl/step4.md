@@ -4,5 +4,5 @@ We will now take a deeper look at the Kubernetes resources.
 
 You will see the various namespaces that are critical to Kubernetes operations.
 
-Pro Tip: 
+**Pro Tip**: 
 `kubectl get ns` is a shorten version of the command above.

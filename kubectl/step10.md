@@ -2,4 +2,4 @@ Remember we wanted to list the pods in the previous steps but there were not any
 
 `kubectl get pods`{{execute}}
 
-Run the command until the pods are "Running" condition
+Run the command until the pods are *Running* condition

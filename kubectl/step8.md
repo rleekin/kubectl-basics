@@ -4,5 +4,5 @@ Check to see if the deployment is in the "Ready" condition.
 
 Notice the deployment was automatically deployed to the default Namespace. 
 
-Pro Tip: 
+**Pro Tip**: 
 `kubectl get deploy` is a shorten version of the command above.
