@@ -1,6 +1,6 @@
 {
-  "title": "Introduction to Kubectl",
-  "description": "In this scenario, will introduce you to the basic Kubectl commands. You'll learn how to navigate through your quickly and  efficiently cluster.",
+  "title": "Introduction to kubectl",
+  "description": "In this scenario, will introduce you to the basic kubectl commands. You'll learn how to navigate through your quickly and efficiently cluster.",
   "difficulty": "Beginner",
   "time": "15 - 20 minutes",
   "details": {
@@ -10,7 +10,7 @@
         "text": "step1.md"
       },
       {
-        "title": "Step 2 - Kubectl Setup",
+        "title": "Step 2 - kubectl Setup",
         "code": "clear.sh",
         "text": "step2.md"
       },

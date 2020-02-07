@@ -1,4 +1,4 @@
-If you want to sort the information output, this command is helpful
+If you want to sort the information output, this flag is helpful:
 
 `kubectl get pod --sort-by=.` by some data point. 
 
