@@ -64,6 +64,11 @@
         "title": "Step 13",
         "code": "clear.sh",
         "text": "step13.md"
+      },
+      {
+        "title": "Additional Resources",
+        "code": "clear.sh",
+        "text": "step14.md"
       }
     ],
     "intro": {
