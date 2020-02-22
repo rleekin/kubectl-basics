@@ -1,4 +1,5 @@
-Let’s setup the terminal to help you ease through the command line
+Let’s setup the terminal to help you ease through using the command line
+
 Setup up kubectl completion.
 
 `kubectl completion -h`{{execute}} This shows us the help options.
